@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/11282203/tony-fools-orbis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11282203/tony-fools-orbis" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tony.siu.5030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tony.siu.5030" height="30" width="40" /></a>
 <a href="https://instagram.com/tonysolvesyourasssiu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tonysolvesyourasssiu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@thefool363" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@thefool363" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thefool363" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@thefool363" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pysolver33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/pysolver33/" height="30" width="40" /></a>
 </p>
 

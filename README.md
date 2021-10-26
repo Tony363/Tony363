@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony363" alt="tony363" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/tony23152644" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tony23152644?logo=twitter&style=for-the-badge" alt="https://twitter.com/tony23152644" /></a> </p>
 
 - 🔭 I’m currently working on [Full Factorial Design of Experiments](https://gist.github.com/Tony363/e38583549483566b8cba30fd40adeeba)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [tony363.github.io](tony363.github.io)
 
-- 💬 Ask me about **Factorial Design of Experiments**
+- 💬 Ask me about **Factorial Design of Exporiments**
 
 - 📫 How to reach me **pysolver33@gmail.com**
 
@@ -27,7 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/tony23152644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tony23152644" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pysolver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pysolver/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11282203/pysolver33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11282203/pysolver33" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/tonysiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tonysiu" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tony.siu.5030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tony.siu.5030/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tonysolvesyourasssiu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tonysolvesyourasssiu/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/tony363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tony363/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

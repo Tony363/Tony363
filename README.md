@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [tony363.github.io](tony363.github.io)
 
-- 💬 Ask me about **Factorial Design of Exporiments**
+- 💬 Ask me about **Factorial Design of Experiments**
 
 - 📫 How to reach me **pysolver33@gmail.com**
 

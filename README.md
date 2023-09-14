@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Siu</h1>
-<h3 align="center">Google UR Student Research Lead, Google AI Explore ML Crowdsource Facillitator</h3>
+<h3 align="center">Google AI Explore ML Crowdsource Facillitator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony363&label=Profile%20views&color=0e75b6&style=flat" alt="tony363" /> </p>
 

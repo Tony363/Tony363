@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Siu</h1>
-<h3 align="center">The Fool is the Precursor to the Savior !</h3>
+<h3 align="center">My motto is the Fool is the Precursor to the Savior !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony363&label=Profile%20views&color=0e75b6&style=flat" alt="tony363" /> </p>
 

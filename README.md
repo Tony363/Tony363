@@ -1,39 +1,273 @@
 <h1 align="center">Hi 👋, I'm Tony Siu</h1>
-<h3 align="center">A Multi-Modal Generation AI Engineer & Researcher</h3>
+<h3 align="center">Multi-Modal Generation AI Engineer & Researcher</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony363" alt="tony363" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pysolver33" target="blank"><img src="https://img.shields.io/twitter/follow/pysolver33?logo=twitter&style=for-the-badge" alt="pysolver33" /></a> </p>
-
-- 🔭 I’m currently working on **AI Influencer Avatars**
-
-- 🌱 I’m currently learning **Phaser.js,ComfyUI, Diffusion Optimization Modeling**
-
-- 👯 I’m looking to collaborate on **Generative AI Game Systems**
-
-- 🤝 I’m looking for help with **Generative UI paradigms and System Architecture**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Tony363](https://github.com/Tony363)
-
-- 📝 I regularly write articles on [https://x.com/pysolver33](https://x.com/pysolver33)
-
-- 💬 Ask me about **Reinforcement Learning & Generative AI systems**
-
-- 📫 How to reach me **pysolver33@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/116AOY9gdQSEvq_2ClDNF00XB5ZEUWbKf/view?usp=sharing](https://drive.google.com/file/d/116AOY9gdQSEvq_2ClDNF00XB5ZEUWbKf/view?usp=sharing)
-
-- ⚡ Fun fact **I only need to eat 3 times per week**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pysolver33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pysolver33" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pysolver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pysolver/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/pysolver33" target="blank"><img src="https://img.shields.io/twitter/follow/pysolver33?logo=twitter&style=for-the-badge" alt="pysolver33" /></a>
+  <a href="https://linkedin.com/in/pysolver" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pysolver" /></a>
+  <a href="mailto:pysolver33@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15" alt="tony363" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tony363&show_icons=true&locale=en" alt="tony363" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tony363&" alt="tony363" /></p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+🔭 Working on **AI Influencer Avatars**
+
+🌱 Learning **Phaser.js, ComfyUI, Diffusion Modeling**
+
+👯 Collaborating on **Generative AI Game Systems**
+
+💬 Ask me about **Reinforcement Learning & Gen AI**
+
+</td>
+<td align="center" width="50%">
+
+🤝 Seeking help with **Generative UI & Architecture**
+
+📝 Writing on [X/Twitter](https://x.com/pysolver33)
+
+📄 [View My Resume](https://drive.google.com/file/d/116AOY9gdQSEvq_2ClDNF00XB5ZEUWbKf/view?usp=sharing)
+
+⚡ Fun fact: **I only need to eat 3 times per week**
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tony363&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tony363&theme=dark&hide_border=true"/>
+</p>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python" />
+<br><sub>Python</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JS" />
+<br><sub>JavaScript</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" alt="TS" />
+<br><sub>TypeScript</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" alt="C" />
+<br><sub>C</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++" />
+<br><sub>C++</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35" alt="C#" />
+<br><sub>C#</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" alt="Java" />
+<br><sub>Java</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" alt="PHP" />
+<br><sub>PHP</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="35" alt="PyTorch" />
+<br><sub>PyTorch</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" alt="TF" />
+<br><sub>TensorFlow</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35" alt="sklearn" />
+<br><sub>Scikit</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="35" alt="Pandas" />
+<br><sub>Pandas</sub>
+</td>
+<td align="center" width="70">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35" alt="Seaborn" />
+<br><sub>Seaborn</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="35" alt="OpenCV" />
+<br><sub>OpenCV</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" alt="React" />
+<br><sub>React</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="Node" />
+<br><sub>Node.js</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35" alt="Express" />
+<br><sub>Express</sub>
+</td>
+<td align="center" width="70">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35" alt="Django" />
+<br><sub>Django</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="35" alt="Flask" />
+<br><sub>Flask</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35" alt="HTML" />
+<br><sub>HTML5</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35" alt="CSS" />
+<br><sub>CSS3</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35" alt="Bootstrap" />
+<br><sub>Bootstrap</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" alt="MongoDB" />
+<br><sub>MongoDB</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="35" alt="Postgres" />
+<br><sub>PostgreSQL</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" alt="MySQL" />
+<br><sub>MySQL</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="35" alt="Redis" />
+<br><sub>Redis</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="35" alt="SQLite" />
+<br><sub>SQLite</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="35" alt="MariaDB" />
+<br><sub>MariaDB</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="35" alt="Elastic" />
+<br><sub>Elastic</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="35" alt="Hadoop" />
+<br><sub>Hadoop</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="35" alt="AWS" />
+<br><sub>AWS</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" alt="GCP" />
+<br><sub>GCP</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="35" alt="Azure" />
+<br><sub>Azure</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="35" alt="Heroku" />
+<br><sub>Heroku</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" alt="Firebase" />
+<br><sub>Firebase</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35" alt="Docker" />
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="35" alt="Nginx" />
+<br><sub>Nginx</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" alt="Git" />
+<br><sub>Git</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" alt="Linux" />
+<br><sub>Linux</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="35" alt="Bash" />
+<br><sub>Bash</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" alt="Postman" />
+<br><sub>Postman</sub>
+</td>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="35" alt="Selenium" />
+<br><sub>Selenium</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="35" alt="Puppeteer" />
+<br><sub>Puppeteer</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" alt="Figma" />
+<br><sub>Figma</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="35" alt="Vagrant" />
+<br><sub>Vagrant</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="35" alt="IFTTT" />
+<br><sub>IFTTT</sub>
+</td>
+<td align="center" width="70">
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="35" alt="Zapier" />
+<br><sub>Zapier</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="35" alt="GTK" />
+<br><sub>GTK</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="35" alt="Qt" />
+<br><sub>Qt</sub>
+</td>
+<td align="center" width="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" width="35" alt="wxWidgets" />
+<br><sub>wxWidgets</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="35" alt="D3.js" />
+<br><sub>D3.js</sub>
+</td>
+</tr>
+</table>
+</div>

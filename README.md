@@ -67,6 +67,10 @@
 <br><sub>TypeScript</sub>
 </td>
 <td align="center" width="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="35" alt="Rust" />
+<br><sub>Rust</sub>
+</td>
+<td align="center" width="70">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" alt="C" />
 <br><sub>C</sub>
 </td>

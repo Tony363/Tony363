@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15" alt="tony363" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&title=MultipleLang,Commit,Repositories,Followers,Stars,Experience,Issues,PullRequest" alt="tony363" />
   </a>
 </p>
 
@@ -19,18 +19,18 @@
 <tr>
 <td align="center" width="50%">
 
-🔭 Working on **AI Influencer Avatars**
+🔭 Working on **Agentic Context Engineering Promptless UI Action Recommendation**
 
-🌱 Learning **Phaser.js, ComfyUI, Diffusion Modeling**
+🌱 Learning **Computer Use & Browser Use Agents**
 
-👯 Collaborating on **Generative AI Game Systems**
+👯 Collaborating on **SuperClaude 100x Developer Frameworks**
 
-💬 Ask me about **Reinforcement Learning & Gen AI**
+💬 Ask me about **Reinforcement Learning & Gen AI & Applied Statistics**
 
 </td>
 <td align="center" width="50%">
 
-🤝 Seeking help with **Generative UI & Architecture**
+🤝 Seeking help with **UX Production Ready Engineering**
 
 📝 Writing on [X/Twitter](https://x.com/pysolver33)
 

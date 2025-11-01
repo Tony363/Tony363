@@ -52,7 +52,7 @@
 ## 📚 Language Mix
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony363&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="Tony's top languages by percentage" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony363&layout=compact&langs_count=10&theme=dark&hide_border=true&hide=Jupyter%20Notebook" alt="Tony's top languages by percentage" />
 </p>
 
 ## 🛠️ Tech Stack

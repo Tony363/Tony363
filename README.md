@@ -46,7 +46,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tony363&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Tony's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tony363&theme=dark&hide_border=true" alt="Tony's GitHub streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=tony363&theme=dark&hide_border=true" alt="Tony's GitHub streak" />
 </p>
 
 ## 📚 Language Mix

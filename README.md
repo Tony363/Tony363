@@ -13,6 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=tony363&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="tony363 trophies" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 <table align="center">
@@ -47,6 +53,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📚 Language Mix

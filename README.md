@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophies-tau.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="tony363 trophies" />
+    <img src="https://github-profile-trophy-peach-omega.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="tony363 trophies" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://trophies-1.vercel.app/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📚 Language Mix

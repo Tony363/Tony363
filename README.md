@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
   <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://streak-stats.demolab.com/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-1-two.vercel.app/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📚 Language Mix

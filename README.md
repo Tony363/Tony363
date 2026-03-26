@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Siu</h1>
-<h3 align="center">Multi-Modal Generation AI Engineer & Researcher</h3>
+<h3 align="center">Multi-Modal GenAI Engineer & Researcher</h3>
 
 <p align="center">
   <a href="https://twitter.com/pysolver33" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/pysolver33?logo=twitter&style=for-the-badge" alt="pysolver33" /></a>
